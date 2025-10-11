@@ -25,7 +25,7 @@ I'm a passionate **B.Tech Computer Science and Engineering** student who loves t
 
 ## 📊 Stats
 
-### 🧩 LeetCode Stats
+### [🧩 LeetCode Stats](https://leetcode.com/u/Prathmesh_1202/)
 <img width="506" height="219" alt="LeetCode Stats" src="https://github.com/user-attachments/assets/55f6a88b-f586-4a9f-8b77-dd335ebf4388" />
 
 ### 📈 GitHub Stats
