@@ -1,22 +1,23 @@
-# Hi there 👋, I'm Prathmesh
+# 👋 Hi there, I'm Prathmesh
 
 ## 👨‍💻 About Me
-I'm a passionate B.Tech student in Computer Science and Engineering, with a deep love for **web and software development**. I thrive on creating impactful, user-centered digital experiences that combine **form and function**.
+I'm a passionate **B.Tech Computer Science and Engineering** student who loves turning ideas into impactful, user-focused digital solutions. With a strong foundation in **web development**, **software engineering**, and **problem-solving**, I enjoy building applications that blend **creativity with functionality**.
 
-- 💻 **Tech Enthusiast & Full-Stack Developer**
-- ✨ Delved deep into **Data Structures and Algorithms**, transforming complexity into elegant solutions
-- 🌐 Skilled in **React, Express, Node, Next JS** and more
-- 💻 Proficient in **Java** and **Python**
-- 🎨 Love crafting **responsive and visually appealing UIs**
-- ⚙️ Enjoy diving into **backend logic** to bring projects to life
-- 🚀 Always **learning & exploring AI and Machine Learning**
+- 💻 **Full-Stack Developer & Tech Enthusiast**  
+- 🧠 Strong grasp of **Data Structures and Algorithms**, transforming complexity into clarity  
+- 🌐 Experienced with **React, Express, Node, Next.js**, and other modern frameworks  
+- ⚙️ Skilled in **Java**, **Python**, and **backend development**  
+- 🎨 Passionate about crafting **responsive, accessible, and visually engaging UIs**  
+- 💾 Enthusiastic about **Mainframe technologies** and **enterprise systems**  
+- 🚀 Continuously learning and exploring **Artificial Intelligence & Machine Learning**  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Frontend:** React JS, Tailwind CSS, Bootstrap, Vanilla JS, HTML, CSS  
-**Backend:** Java, Python, Express JS, Node JS  
+**Frontend:** React JS, Next JS, Tailwind CSS, Bootstrap, Vanilla JS, HTML, CSS  
+**Backend:** Node JS, Express JS, Java, Python  
+**Mainframe:** COBOL, JCL, VSAM, DB2, TSO/ISPF  
 **Version Control:** Git, GitHub  
 **IDEs:** Visual Studio Code, IntelliJ IDEA Ultimate, PyCharm Professional  
 
@@ -24,22 +25,22 @@ I'm a passionate B.Tech student in Computer Science and Engineering, with a deep
 
 ## 📊 Stats
 
-### 🏆 LeetCode Stats
-<img width="506" height="219" alt="image" src="https://github.com/user-attachments/assets/55f6a88b-f586-4a9f-8b77-dd335ebf4388" />
+### 🧩 LeetCode Stats
+<img width="506" height="219" alt="LeetCode Stats" src="https://github.com/user-attachments/assets/55f6a88b-f586-4a9f-8b77-dd335ebf4388" />
 
-
-### 🏆 GitHub Stats
-
+### 📈 GitHub Stats
+![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-dhone&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
-I'm always eager to connect with fellow developers, share ideas, and collaborate on exciting projects. Reach out to me at:
 
-- LinkedIn: [Prathmesh Dhone]((https://www.linkedin.com/in/prathmesh-dhone-980514282/))  
-- Gmail: dhoneprathmesh72@gmail.com  
+I'm always open to collaboration, knowledge-sharing, and new opportunities. Feel free to reach out!
+
+- 💼 **LinkedIn:** [Prathmesh Dhone](https://www.linkedin.com/in/prathmesh-dhone-980514282/)  
+- 📧 **Email:** dhoneprathmesh72@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact
-_"I believe in constant learning, and turning complex problems into elegant, efficient solutions is my passion!"_
+> *"I believe in lifelong learning — turning complex challenges into elegant, efficient solutions is not just my goal, it’s my passion!"*
